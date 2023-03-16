@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Iconly_Light-Outline_Danger-Circle" data-name="Iconly Light-Outline Danger-Circle" transform="translate(-287.638 -410.237)">
+    <g id="Danger-Circle" transform="translate(287.638 410.237)">
+      <path id="Combined-Shape-2" d="M299.638,410.237a12,12,0,1,1-12,12A12,12,0,0,1,299.638,410.237Zm0,1.8a10.2,10.2,0,1,0,10.2,10.2A10.2,10.2,0,0,0,299.638,412.037Zm-2.242,6.686,2.243,2.24,2.24-2.238A.9.9,0,0,1,303.152,420l-2.243,2.238,2.244,2.244a.9.9,0,0,1-1.228,1.316c-.016-.014-.03-.029-.044-.044l-2.242-2.244-2.242,2.24a.9.9,0,0,1-1.271-1.272l2.238-2.24-2.24-2.24a.9.9,0,1,1,1.226-1.316Z" transform="translate(-287.638 -410.237)" fill="#ff4a4a" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

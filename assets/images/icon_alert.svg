@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="154" viewBox="0 0 154 154">
+  <g id="Layer_2" data-name="Layer 2" transform="translate(-0.446 -0.446)">
+    <g id="alert-circle">
+      <rect id="Rectángulo_622" data-name="Rectángulo 622" width="154" height="154" transform="translate(0.446 0.446)" fill="#ff4a4a" opacity="0"/>
+      <path id="Trazado_1920" data-name="Trazado 1920" d="M66.539,2a64.539,64.539,0,1,0,64.539,64.539A64.539,64.539,0,0,0,66.539,2Zm0,116.17A51.631,51.631,0,1,1,118.17,66.539,51.631,51.631,0,0,1,66.539,118.17Z" transform="translate(10.908 10.908)" fill="#ff4a4a"/>
+      <ellipse id="Elipse_57" data-name="Elipse 57" cx="6" cy="6.5" rx="6" ry="6.5" transform="translate(71.446 96.446)" fill="#ff4a4a"/>
+      <path id="Trazado_1921" data-name="Trazado 1921" d="M17.454,7A6.454,6.454,0,0,0,11,13.454V45.723a6.454,6.454,0,0,0,12.908,0V13.454A6.454,6.454,0,0,0,17.454,7Z" transform="translate(59.993 38.177)" fill="#ff4a4a"/>
+    </g>
+  </g>
+</svg>
